@@ -39,4 +39,8 @@ export default class TeamsHelper {
     });
     return { al_east, al_center, al_west, nl_center, nl_east, nl_west };
   }
+  getTeamDetails(data,id){
+    return data.filter(value => value.team_id === id)
+
+  }
 }
