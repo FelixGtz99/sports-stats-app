@@ -1,4 +1,4 @@
-#Sports Stats App
+# Sports Stats App
 
 A React app for the purpose of collecting information from different sports and leagues
 
